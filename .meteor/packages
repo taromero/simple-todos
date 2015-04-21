@@ -6,3 +6,5 @@
 meteor-platform
 accounts-ui
 accounts-password
+materialize:materialize
+canotto90:chrome-push-notifications
