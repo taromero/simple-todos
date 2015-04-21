@@ -6,7 +6,7 @@ function showNotification(event) {
 
   var title = 'Yay a message.'
   var body = 'We have received a push message.'
-  var icon = '/images/icon-192x192.png'
+  var icon = '/images/mobile-desktop-logo.png'
   var tag = 'simple-push-demo-notification-tag'
 
   event.waitUntil(
